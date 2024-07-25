@@ -1,0 +1,542 @@
+body.dark-mode{
+    background: #1c1c1b;
+    color: #fff;
+}
+.dark-mode .blue-title,.dark-mode .dark-blue-title,.dark-mode .brown-title,.dark-mode .white-title,.dark-mode .vue-title,.dark-mode .pale-blue-title {
+    color: #fff;
+}
+
+.dark-mode .blue-title::after,.dark-mode .white-title:after,.dark-mode .brown-title::after,.dark-mode .vue-title::after{
+    background-color: #fff;
+}
+
+.member-plus::after, .member-plus::before{
+    background-color: #1c1c1b!important;
+}
+.dark-mode p{
+    color: #fff!important;
+}
+.dark-mode .website-subtitle{
+    color: #fff!important;
+}
+.dark-mode .website-btn-brown,.dark-mode .website-btn-dark-blue,.dark-mode .website-btn-vue,.dark-mode .website-btn-pale-blue{
+    background-color: #fff;
+    border: 1px solid #fff;
+    color: #1c1c1b;
+}
+.dark-mode .website-btn-brown:hover,.dark-mode .website-btn-dark-blue:hover,.dark-mode .website-btn-vue:hover,.dark-mode .website-btn-pale-blue:hover{
+    background-color: transparent;
+    color: #fff;
+}
+.dark-mode .modal.brown form .submit-btn{
+    background: transparent;
+    color: #fff;
+}
+.dark-mode header{
+    background-color: #1c1c1b;
+}
+
+.dark-mode #intro{
+    background: #1c1c1b;
+}
+
+.dark-mode header.top{
+    background: transparent;
+}
+.dark-mode .modal-content{
+    background: #1c1c1b;
+}
+
+.dark-mode .card-body{
+    background-color: #1c1c1b;
+}
+
+.dark-mode .card-header{
+    background-color: #424242;
+    border-radius: 0;
+    border: none;
+}
+
+.dark-mode .card-body{
+    border: 1px solid #424242;
+}
+
+.dark-mode .modal form input,.dark-mode .modal form select{
+    background: transparent;
+    color: #fff;
+    border: solid 2px #fff;
+}
+
+.dark-mode .modal form input::placeholder{
+    color: #fff;
+}
+
+.dark-mode .modal form .submit-btn:hover{
+    background-color: #fff;
+    color: #1c1c1b;
+}
+
+.dark-mode #nav-menu{
+    background-color: #1c1c1b;
+    color: #fff;
+}
+
+.dark-mode .nav-item .active{
+    color: #fff;
+}
+
+.dark-mode .paragraph span{
+    color: #fff!important;
+}
+
+.dark-mode .tab-body p > * {
+    color: #fff!important;
+}
+
+.dark-mode .nav-link:focus{
+    color: #fff;
+}
+
+.dark-mode .box{
+    color: #1c1c1b;
+    background: #fff;
+}
+
+.dark-mode .card-header .website-title{
+    color: #fff;
+}
+
+.dark-mode .awards-box{
+    background-color: #1c1c1b;
+}
+
+.dark-mode .card-header p{
+    color: #fff!important;
+}
+
+
+.dark-mode .nav-link{
+    color: #fff;
+}
+
+.dark-mode .nav-link:hover{
+    color: #fff;
+}
+
+.dark-mode .custom-close span::after,.dark-mode .custom-close span::before{
+    background-color: #fff;
+}
+
+.dark-mode .project.left{
+    background-color: #1c1c1b;
+}
+
+.dark-mode .tab-body .about-text-below,.dark-mode .tab-body .ceomsg-text-below,.dark-mode .tab-body p{
+    color: #fff;
+}
+
+.dark-mode ul#philosophy-list li{
+    color: #fff;
+}
+
+.dark-mode .website-btn-blue{
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: transparent;
+}
+.dark-mode .website-btn-blue:hover{
+    background: #fff!important;
+    color: #1c1c1b!important;
+}
+
+.dark-mode header a,.dark-mode header label,.dark-mode header svg{
+    color: #fff;
+}
+.dark-mode header .hamburger-inner,.dark-mode header .hamburger-inner:after,.dark-mode header .hamburger-inner:before{
+    background-color: #fff;
+}
+
+.dark-mode header div#navigation.blue a,.dark-mode  header div#navigation.blue label,.dark-mode  header div#navigation.blue svg{
+    color: #fff;
+}
+
+.dark-mode #dream-home,.dark-mode #innovation,.dark-mode #news,.dark-mode #partners{
+    background: #1c1c1b;
+}
+.dark-mode header div#navigation.blue .hamburger-inner, .dark-mode header div#navigation.blue .hamburger-inner:after, .dark-mode header div#navigation.blue .hamburger-inner:before{
+    background: #fff;
+}
+
+.dark-mode .wrapper-list{
+    background: #1c1c1b;
+}
+
+.dark-mode #accordion .card-header{
+    background-color: #1c1c1b;
+    color: #fff;
+}
+
+.dark-mode .card-body, .dark-mode .card-body p, .dark-mode .card-body ul{
+    color: #fff;
+}
+
+.dark-mode .card-link{
+    border-bottom: 1px solid #fff;
+    background: #1c1c1b;
+}
+.dark-mode .project-close::after, .dark-mode .project-close::before{
+    background:#fff
+}
+.dark-mode .card-body > *,.dark-mode .card-body li > * {
+    color: #fff!important;
+}
+
+.dark-mode .background{
+    background: transparent;
+}
+
+.dark-mode #marketing-challenge .website-btn{
+    background: #fff;
+    color: #1c1c1b!important;
+    border: 1px solid #fff!important;
+}
+.dark-mode #marketing-challenge .website-btn:hover{
+    background: #1c1c1b;
+    color: #fff!important;
+}
+
+.dark-mode .competition-body-text,.dark-mode .competition-body-text > *{
+    color: #fff;
+}
+
+.dark-mode .winner-item,.dark-mode .inner-item{
+    background: #424242;
+}
+.dark-mode .inner-item h4,.dark-mode .inner-item p{
+    color: #fff;
+}
+
+.dark-mode form:not(.newsletter-subscription) input,.dark-mode form:not(.newsletter-subscription) select{
+    color: #fff;
+    background: #1c1c1b;
+    border: 2px solid #fff;
+}
+.dark-mode form:not(.newsletter-subscription) input::placeholder{
+    color: #fff;
+}
+
+.dark-mode form:not(.newsletter-subscription) .file-container label,.dark-mode form:not(.newsletter-subscription) .file-container input{
+    color: #fff;
+    border: 2px solid #fff;
+}
+.dark-mode .bg{
+    background-color: #1c1c1b;
+}
+.dark-mode .table-bordered{
+    border: 1px solid #424242;
+}
+.dark-mode #inputFilter{
+    background-color: #424242;
+}
+.dark-mode #\#bb{
+    color: #fff;
+    border: 2px dotted #fff;
+}
+
+.dark-mode #contact-section{
+    background-color: #1c1c1b;
+}
+.dark-mode #contact,.dark-mode #contact-form{
+    background-color: #1c1c1b;
+}
+
+.dark-mode #contact-form form input[type=email],
+.dark-mode #contact-form form input[type=tel],
+.dark-mode #contact-form form input[type=text],
+.dark-mode #contact-form form select,
+.dark-mode #contact-form form textarea{
+    border: 2px solid #fff;
+}
+.dark-mode #contact-form form textarea::placeholder{
+    color: #fff;
+}
+
+.dark-mode #head-office-section{
+    background-color: #1c1c1b;
+}
+.dark-mode #head-office-section h4,
+.dark-mode #head-office-section h5,
+.dark-mode #head-office-section ul li{
+    color: #fff;
+}
+
+.dark-mode .bg-light{
+    background-color: #1c1c1b!important;
+}
+
+.dark-mode #virtual-assistant form input,
+.dark-mode #virtual-assistant form select{
+    color: #fff;
+    border: solid 2px #fff;
+}
+
+.dark-mode #virtual-assistant form input::placeholder{
+    color: #fff;
+}
+
+.dark-mode #news .news-item{
+    background-color: #424242;
+}
+
+.dark-mode .family-member .family-member-name,.dark-mode #add-family-member-btn,.dark-mode #add-driving-btn{
+    color: #fff;
+}
+
+.dark-mode #mobile-menu{
+    background-color: #000;
+}
+
+.dark-mode .mm-panels > .mm-panel > .mm-listview{
+    background-color: #1c1c1b;
+}
+
+.dark-mode .mm-listitem{
+    color: #fff;
+}
+
+.dark-mode #menu-contact .menu-btn{
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.dark-mode #menu-contact .menu-btn:hover{
+    color: #1c1c1b;
+    background-color: #fff;
+}
+
+.dark-mode .dark-mode-btn{
+    border: 1px solid #1c1c1b;
+}
+
+.dark-mode .mm-menu .mm-listview .mm-btn_next:after{
+    border-color: #fff;
+}
+
+.dark-mode #mm-2 .mm-listitem, #mm-3 .mm-listitem{
+    color: #fff;
+}
+
+.dark-mode header.menu-opened a > svg{
+    color: #fff!important;
+}
+.dark-mode .select-wrapper{
+    margin-top: 30px;
+}
+.dark-mode .select-wrapper select{
+    color: #fff;
+    background-color: rgba(28,28, 27,.2);
+}
+
+.dark-mode .prize_info{
+    background: #000;
+}
+.dark-mode .prize_info .website-subtitle{
+    color: white !important;
+}
+
+.dark-mode .form-inline #vacancy-select-form.form-group label{
+    color: #fff;
+}
+
+.dark-mode .vacancy-details .paragraph * {
+    color: #fff !important;
+}
+.dark-mode .paragraph ul li::marker{
+    color: #fff;
+}
+.dark-mode .icons-modal .modal-content{
+    background: #fff;
+    color: #1c1c1b;
+}
+.dark-mode #values-modal .website-title,.dark-mode #values-modal .values-p{
+    color: #1c1c1b!important;
+}
+
+.dark-mode .icons-modal .custom-close span::after, .dark-mode .icons-modal .custom-close span::before{
+    background: #1c1c1b;
+}
+
+.dark-mode .media-item{
+    background: #424242;
+    border: 1px solid #1c1c1b;
+}
+
+.dark-mode .gallery-container .col-xm-12{
+    background: #1c1c1b!important;
+}
+
+.dark-mode ul.tabs li.current{
+    color: #fff;
+}
+
+.dark-mode ul.tabs li{
+    color: #424242;
+}
+
+.dark-mode .slider-for .date{
+    color: #fff;
+    background: #424242;
+    width: 100%;
+    display: block;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.dark-mode .slick-next:before, .slick-prev:before{
+    color: #fff;
+    border-left: 2px solid #fff;
+    border-top: 2px solid #fff;
+}
+
+.dark-mode #contact-form form input[type=email],.dark-mode #contact-form form input[type=tel],.dark-mode #contact-form form input[type=text],.dark-mode #contact-form form select{
+    color: #fff;
+}
+
+.dark-mode #construction-updates-section{
+    background-color: #1c1c1b;
+}
+
+.dark-mode .map-table{
+    background-color: #1c1c1b;
+}
+
+.dark-mode .board .table tr td p{
+    color: #fff!important;
+}
+
+.dark-mode .board{
+    background-color: #424242;
+}
+
+.dark-mode .slider-for .caption{
+    background: #424242;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.dark-mode .slider-nav .caption{
+    max-height: 44px;
+    background: #424242;
+}
+
+.dark-mode .embed-responsive{
+    margin-bottom: 0;
+}
+
+.dark-mode .bg-color{
+    background-color: #424242;
+}
+
+.dark-mode #apply-now-modal a.website-btn-pink{
+    border: 1px solid #fff!important;
+    color: #fff!important;
+}
+
+.dark-mode #apply-now-modal a.website-btn-pink:hover{
+    color: #1c1c1b!important;
+    background-color: #fff!important;
+}
+
+.dark-mode .website-btn-gray{
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.dark-mode .website-btn-gray:hover{
+    background-color: #fff;
+    color: #1c1c1b;
+
+}
+.dark-mode footer{
+    border-top: 1px solid rgba(255, 255, 255, 0.11);
+}
+
+.dark-mode #vacancy-mobile{
+    background-color: #1c1c1b;
+}
+.dark-mode #responsibilities,.dark-mode #vacancy-details-mobile{
+    background-color: #1c1c1b;
+}
+.dark-mode #responsibilities{
+    padding-top: 0;
+}
+.dark-mode .paragraph p{
+    background: #1c1c1b!important;
+}
+.dark-mode #apply,.dark-mode #general-inquiry{
+    background: #1c1c1b;
+}
+
+.dark-mode .website-btn-phia{
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.dark-mode .website-btn-phia:hover{
+    background-color: #fff;
+    color: #1c1c1b;
+}
+
+.dark-mode .phia-title{
+    color: #fff;
+}
+.dark-blue-title:after{
+    background: #fff;
+}
+.dark-mode .tab-content .owl-theme .owl-dots .owl-dot span,.dark-mode .tab-content .owl-theme .owl-dots .owl-dot.active span{
+    background-color: #ff4713!important;
+}
+.dark-mode .modal .owl-theme .owl-dots .owl-dot span,.dark-mode .modal .owl-theme .owl-dots .owl-dot.active span{
+    background-color: #ff4713!important;
+}
+.dark-mode #marketing-challenge .website-btn.disabled:hover {
+    background: #999;
+    color: #fff!important;
+}
+.dark-mode .modal.show {
+    background: rgba(000, 000, 000, 1) ;
+}
+.dark-mode .custom-modal{
+    background: transparent  !important;
+}
+.custom-modal .modal-dialog{
+    /* max-width: unset !important; */
+    /* width: 15rem; */
+}
+.dark-mode select#inputDepartment.form-control {
+    border: solid 2px #fff;
+    color: #fff;
+}
+.dark-mode select#inputDepartment.form-control:focus {
+    border: solid 2px #fff;
+    color: #fff;
+}
+.dark-mode input.form-control {
+    border: 2px solid #fff !important;
+    color: #fff !important;
+}
+.dark-mode input.form-control:focus {
+    border: 2px solid #fff !important;
+}
+.dark-mode #\#bbb { 
+    border: 2px dotted #fff !important; 
+    color: #fff !important; 
+}
+.dark-mode #\#bbb:focus{ 
+    border: 2px dotted #fff !important; 
+    color: #fff !important; 
+}
+.dark-mode textarea{
+    border: solid 2px #fff !important;
+    color: #fff !important;
+}
